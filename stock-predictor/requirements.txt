@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+yfinance
+requests
+python-dotenv           
+nltk
+transformers             
+torch                  
+vaderSentiment          
